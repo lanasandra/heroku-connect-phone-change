@@ -1,5 +1,6 @@
 {
   "name": "phone-change",
+  "port": "5000",
   "version": "0.0.0",
   "description": "Heroku Connect Sample App - Phone Change",
   "main": "server.js",
